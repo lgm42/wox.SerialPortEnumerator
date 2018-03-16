@@ -1,12 +1,12 @@
 ﻿{
-  "ID":"82c2af8c4e0f4f0598a06c29bc080ffb",   //Plugin ID，32 bit UUID
-  "ActionKeyword":"com",                     //Plugin default action keyword
-  "Name":"SerialPortEnumerator",                              //Plugin name
-  "Description":"Enumerate serial ports",    //Plugin description
-  "Author":"Nicolas HILAIRE",                     //Plugin Author
-  "Version":"1.0.0",                         //Plugin version，must be x.x.x format
-  "Language":"csharp",                       //Plugin language，we support csharp,python and executable now
-  "Website":"",         //Plugin website or author website
-  "IcoPath": "icon.png",              //Plugin icon, relative path to the pluign folder
-  "ExecuteFileName":"SerialPortEnumerator.dll"   //Execution entry. Dll name for c# plugin, and python file for python plugin
+  "ID":"82c2af8c4e0f4f0598a06c29bc080ffb",   
+  "ActionKeyword":"com",                     
+  "Name":"SerialPortEnumerator",                              
+  "Description":"Enumerate serial ports",    
+  "Author":"Nicolas HILAIRE",                     
+  "Version":"1.0.0",                        
+  "Language":"csharp",                       
+  "Website":"",         
+  "IcoPath": "icon.png",              
+  "ExecuteFileName":"SerialPortEnumerator.dll"   
 }
